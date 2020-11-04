@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyBookListing</string>
+    <string name="search_field">Book Name</string>
+    <string name="search">SEARCH</string>
+    <string name="title">lala</string>
+    <string name="author">lala</string>
+    <string name="date">111124</string>
+    <string name="pages">100 pages</string>
+    <string name="rate">rate</string>
+</resources>
